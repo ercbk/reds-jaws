@@ -1,0 +1,10 @@
+name: jaws4-post
+title:
+username:
+account: erbo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 305743
+bundleId: 1283603
+url: https://erbo.shinyapps.io/jaws4-post/
+when: 1521769879.89754

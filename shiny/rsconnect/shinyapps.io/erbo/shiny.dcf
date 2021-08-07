@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: erbo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 282645
+bundleId: 1232537
+url: https://erbo.shinyapps.io/shiny/
+when: 1519171500.08183
