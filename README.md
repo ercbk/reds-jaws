@@ -18,3 +18,11 @@ Other features include a Hall of Fame score which relates a player’s
 statistics to a typical member of the Hall of Fame and player stat ranks
 and percentiles. Lastly, there are multiple tables to compare players in
 other categories like the postseason, fielding, and awards.
+
+A user guide for the dashboard can be found
+[here](https://raw.githack.com/ercbk/red-jaws/master/docs/documentation.html).
+
+Details on the JAWS-4 calculation can be found
+[here](https://raw.githack.com/ercbk/red-jaws/master/docs/notes.html).
+
+(Code tranferred from an older repository.)
