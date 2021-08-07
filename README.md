@@ -20,9 +20,9 @@ and percentiles. Lastly, there are multiple tables to compare players in
 other categories like the postseason, fielding, and awards.
 
 A user guide for the dashboard can be found
-[here](https://raw.githack.com/ercbk/red-jaws/master/docs/documentation.html).
+[here](https://raw.githack.com/ercbk/reds-jaws/master/docs/documentation.html).
 
 Details on the JAWS-4 calculation can be found
-[here](https://raw.githack.com/ercbk/red-jaws/master/docs/notes.html).
+[here](https://raw.githack.com/ercbk/reds-jaws/master/docs/notes.html).
 
 (Code tranferred from an older repository.)
